@@ -5,6 +5,7 @@
 _for the installation I followed the ROS2 Humble Hawksbill installation ._
 
 1. Ros2 Humble Hawksbill installation [https://docs.ros.org/en/humble/Installation.html](https://docs.ros.org/en/humble/Installation.html)
+ 
  during the installation I run to this problem
    ```sh
    W: GPG error: http://packages.ros.org/ros2/ubuntu focal InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY F42ED6FBAB17C654
